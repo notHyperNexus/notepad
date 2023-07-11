@@ -51,3 +51,15 @@ header {
     padding: 1px;
     text-align: center;
 }
+a {
+    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    color: blue;
+}
+a:hover {
+    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    color: pink;
+}
+a:active {
+    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    color: red;
+}
