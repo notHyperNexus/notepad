@@ -52,15 +52,15 @@ header {
     text-align: center;
 }
 a {
-    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur"), default;
     color: blue;
 }
 a:hover {
-    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur"), default;
     color: pink;
 }
 a:active {
-    cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
+    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur"), default;
     color: red;
 }
 footer {
@@ -71,4 +71,6 @@ footer {
     padding: 10px;
     text-align: center;
     color: #fff;
+    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128244536490078269/pointer.cur") 8 8, pointer;
+}
 }
