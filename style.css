@@ -2,7 +2,7 @@ body {
     background-color: #000;
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
-    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128244536490078269/pointer.cur") 8 8, pointer;
+    cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128244536490078269/pointer.cur?size=50") 8 8, pointer;
 }
 .hover-container {
     width: 50%;
