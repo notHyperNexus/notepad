@@ -68,6 +68,7 @@ footer {
     margin: 1px;
     font-size: large;
     background-color: #666;
-    padding: 1px;
+    padding: 10px;
     text-align: center;
+    color: #fff;
 }
