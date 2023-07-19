@@ -26,19 +26,15 @@ textarea {
     cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248678872784936/beam.cur), default;
 }
 button {
-    border: #fff;
+    border: 2px solid #fff;
     margin: 1px;
     padding: 12px;
     background-color: pink;
     text-align: center;
     font-size: large;
     cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
-}
-button:active {
-    background-color: rgb(255, 0, 170);
-}
-button:hover {
-    background-color: rgb(226, 161, 212);
+    background: linear-gradient(350deg, #000000, #4d0830, #abd319);
+    color: white
 }
 img {
     width: 30px;
@@ -47,9 +43,10 @@ header {
     border: #fff;
     margin: 1px;
     font-size: large;
-    background-color: #666;
     padding: 1px;
     text-align: center;
+    background: linear-gradient(350deg, #000000, #4d0830, #abd319);
+    color: white;
 }
 a {
     cursor: url("https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur"), default;
