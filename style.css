@@ -33,8 +33,9 @@ button {
     text-align: center;
     font-size: large;
     cursor: url(https://cdn.discordapp.com/attachments/1035542010083426405/1128248679216721920/link.cur), default;
-    background: linear-gradient(350deg, #000000, #4d0830, #abd319);
+    background: linear-gradient(350deg, #000000, blue, purple);
     color: white
+    border-radius: 16px;
 }
 img {
     width: 30px;
